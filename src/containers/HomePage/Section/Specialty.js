@@ -36,8 +36,8 @@ class Specialty extends Component {
       <div className="Section-share Specialty-section">
         <div className="Section-container">
           <div className="Section-header">
-            <span className="Section-header-title">Chuyên khoa phổ biến</span>
-            <button className="Section-header-btn">Xem thêm</button>
+            <span className="Section-header-title">Top Specialties</span>
+            <button className="Section-header-btn">More</button>
           </div>
           <div className="Section-body">
             <Slider {...this.props.settings}>
